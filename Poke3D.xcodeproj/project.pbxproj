@@ -8,22 +8,22 @@
 
 /* Begin PBXBuildFile section */
 		55E430122494DB7E0079956B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55E430112494DB7E0079956B /* AppDelegate.swift */; };
-		55E430142494DB7E0079956B /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 55E430132494DB7E0079956B /* art.scnassets */; };
 		55E430162494DB7E0079956B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55E430152494DB7E0079956B /* ViewController.swift */; };
 		55E430192494DB7E0079956B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55E430172494DB7E0079956B /* Main.storyboard */; };
 		55E4301B2494DB7F0079956B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55E4301A2494DB7F0079956B /* Assets.xcassets */; };
 		55E4301E2494DB7F0079956B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55E4301C2494DB7F0079956B /* LaunchScreen.storyboard */; };
+		55E430262494EDE50079956B /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 55E430252494EDE50079956B /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		55E4300E2494DB7E0079956B /* Poke3D.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Poke3D.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55E430112494DB7E0079956B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		55E430132494DB7E0079956B /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		55E430152494DB7E0079956B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		55E430182494DB7E0079956B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		55E4301A2494DB7F0079956B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55E4301D2494DB7F0079956B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55E4301F2494DB7F0079956B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55E430252494EDE50079956B /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +57,8 @@
 			isa = PBXGroup;
 			children = (
 				55E430112494DB7E0079956B /* AppDelegate.swift */,
-				55E430132494DB7E0079956B /* art.scnassets */,
 				55E430152494DB7E0079956B /* ViewController.swift */,
+				55E430252494EDE50079956B /* art.scnassets */,
 				55E430172494DB7E0079956B /* Main.storyboard */,
 				55E4301A2494DB7F0079956B /* Assets.xcassets */,
 				55E4301C2494DB7F0079956B /* LaunchScreen.storyboard */,
@@ -125,8 +125,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55E430142494DB7E0079956B /* art.scnassets in Resources */,
 				55E4301E2494DB7F0079956B /* LaunchScreen.storyboard in Resources */,
+				55E430262494EDE50079956B /* art.scnassets in Resources */,
 				55E4301B2494DB7F0079956B /* Assets.xcassets in Resources */,
 				55E430192494DB7E0079956B /* Main.storyboard in Resources */,
 			);
